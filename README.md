@@ -1,5 +1,7 @@
 # AI-Powered-Medical-Diagnosis-Chatbot
 pip install streamlit google-generativeai ultralytics pillow
+
+
 Breakdown of Dependencies:
 Streamlit (streamlit) – For building the web-based UI.
 Google Generative AI (google-generativeai) – For integrating the Gemini AI model.
